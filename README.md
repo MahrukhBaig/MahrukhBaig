@@ -70,4 +70,8 @@
   <img src="https://streak-stats.demolab.com?user=MahrukhBaig&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<h3 align="left">🤝 Let's Connect :</h3>
+<p align="left">I'm always excited to collaborate on AI, Machine Learning, Computer Vision, and Full-Stack projects.
+
+📫 Feel free to connect, collaborate, or discuss innovative ideas.</p>
 ###
